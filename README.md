@@ -47,7 +47,7 @@
 - You can use the following test scenarios to see how the code works:
 
 #### Example Test Scenarios
-**scenarios = [**
+scenarios = [
 
     ("M1", "K4", "From AŞTİ to OSB"),
     
@@ -55,7 +55,7 @@
     
     ("T4", "M1", "From Keçiören to AŞTİ"),
     
-**]**
+]
 
 ##### Minimum transfers:
 - AŞTİ → Kızılay (Blue) → Kızılay (Red) → Ulus → Demetevler → OSB
