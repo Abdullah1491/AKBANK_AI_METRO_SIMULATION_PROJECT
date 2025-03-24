@@ -49,11 +49,11 @@
 #### Example Test Scenarios
 **scenarios = [**
 
-    **("M1", "K4", "From AŞTİ to OSB"),**
+    ("M1", "K4", "From AŞTİ to OSB"),
     
-    **("T1", "T4", "From Batıkent to Keçiören"),**
+    **("T1", "T4", "From Batıkent to Keçiören"),
     
-    **("T4", "M1", "From Keçiören to AŞTİ"),**
+    ("T4", "M1", "From Keçiören to AŞTİ"),
     
 **]**
 
